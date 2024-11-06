@@ -1,0 +1,22 @@
+2024-10-30 13:34:20,539 - INFO - Starting training for Lung Cancer Detection Model
+2024-10-30 13:35:11,138 - INFO - Epoch 1/20 - Loss: 0.5338, Accuracy: 0.8125, Val Loss: 0.4083, Val Accuracy: 0.8664
+2024-10-30 13:35:39,833 - INFO - Epoch 2/20 - Loss: 0.3111, Accuracy: 0.8782, Val Loss: 0.3838, Val Accuracy: 0.8681
+2024-10-30 13:36:09,181 - INFO - Epoch 3/20 - Loss: 0.2465, Accuracy: 0.9008, Val Loss: 0.3102, Val Accuracy: 0.8672
+2024-10-30 13:36:38,352 - INFO - Epoch 4/20 - Loss: 0.2068, Accuracy: 0.9187, Val Loss: 0.2750, Val Accuracy: 0.8867
+2024-10-30 13:37:07,211 - INFO - Epoch 5/20 - Loss: 0.1909, Accuracy: 0.9264, Val Loss: 0.2460, Val Accuracy: 0.8867
+2024-10-30 13:37:36,152 - INFO - Epoch 6/20 - Loss: 0.1545, Accuracy: 0.9451, Val Loss: 0.2447, Val Accuracy: 0.8879
+2024-10-30 13:38:05,997 - INFO - Epoch 7/20 - Loss: 0.1360, Accuracy: 0.9524, Val Loss: 0.2690, Val Accuracy: 0.8859
+2024-10-30 13:38:35,736 - INFO - Epoch 8/20 - Loss: 0.1243, Accuracy: 0.9600, Val Loss: 0.2187, Val Accuracy: 0.9046
+2024-10-30 13:39:05,407 - INFO - Epoch 9/20 - Loss: 0.1028, Accuracy: 0.9709, Val Loss: 0.2121, Val Accuracy: 0.9046
+2024-10-30 13:39:35,218 - INFO - Epoch 10/20 - Loss: 0.0938, Accuracy: 0.9736, Val Loss: 0.2046, Val Accuracy: 0.9099
+2024-10-30 13:40:05,195 - INFO - Epoch 11/20 - Loss: 0.0840, Accuracy: 0.9775, Val Loss: 0.1984, Val Accuracy: 0.9180
+2024-10-30 13:40:34,553 - INFO - Epoch 12/20 - Loss: 0.0731, Accuracy: 0.9806, Val Loss: 0.2107, Val Accuracy: 0.9135
+2024-10-30 13:41:03,763 - INFO - Epoch 13/20 - Loss: 0.0666, Accuracy: 0.9830, Val Loss: 0.2202, Val Accuracy: 0.9135
+2024-10-30 13:41:32,934 - INFO - Epoch 14/20 - Loss: 0.0652, Accuracy: 0.9825, Val Loss: 0.1983, Val Accuracy: 0.9091
+2024-10-30 13:42:01,995 - INFO - Epoch 15/20 - Loss: 0.0556, Accuracy: 0.9876, Val Loss: 0.1628, Val Accuracy: 0.9233
+2024-10-30 13:42:29,882 - INFO - Epoch 16/20 - Loss: 0.0480, Accuracy: 0.9885, Val Loss: 0.1734, Val Accuracy: 0.9216
+2024-10-30 13:42:58,098 - INFO - Epoch 17/20 - Loss: 0.0404, Accuracy: 0.9918, Val Loss: 0.1675, Val Accuracy: 0.9277
+2024-10-30 13:43:25,867 - INFO - Epoch 18/20 - Loss: 0.0373, Accuracy: 0.9930, Val Loss: 0.1598, Val Accuracy: 0.9314
+2024-10-30 13:43:53,555 - INFO - Epoch 19/20 - Loss: 0.0334, Accuracy: 0.9936, Val Loss: 0.1546, Val Accuracy: 0.9367
+2024-10-30 13:44:21,347 - INFO - Epoch 20/20 - Loss: 0.0292, Accuracy: 0.9954, Val Loss: 0.1596, Val Accuracy: 0.9350
+2024-10-30 13:44:21,691 - INFO - Training complete and model saved.

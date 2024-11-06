@@ -16,10 +16,15 @@ eggs/
 .eggs/
 lib/
 lib64/
+Streamlit/
+train/
+test/
+val/
 parts/
 sdist/
 var/
 wheels/
+models/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
