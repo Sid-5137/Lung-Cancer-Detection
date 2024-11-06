@@ -1,0 +1,4 @@
+Put the extracted dataset here.
+
+Dataset Used is "IQ-OTH/NCCD - Lung Cancer Dataset"
+Kaggle Dataset Link: https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset/data 
